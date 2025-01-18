@@ -2,6 +2,8 @@
 
 ## Introduction to Git
 Git is a distributed version control system that helps developers collaborate on projects. It tracks changes in source code during software development.
+Git is a distributed version control system that helps developers collaborate on projects. It tracks changes in source code during software development.
+Git is a distributed version control system that helps developers collaborate on projects. It tracks changes in source code during software development.
 
 ## Basic Commands
 

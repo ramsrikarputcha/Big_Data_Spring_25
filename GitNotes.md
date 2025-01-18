@@ -10,6 +10,8 @@ git config --global user.email "your.email@example.com"
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
+Git is a distributed version control system that helps developers collaborate on projects. It tracks changes in source code during software development.
+Git is a distributed version control system that helps developers collaborate on projects. It tracks changes in source code during software development.
 
 ## Basic Commands
 
